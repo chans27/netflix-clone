@@ -1,1 +1,1 @@
-# netflix-clone
+# netflixを真似したアプリケーション
